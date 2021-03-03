@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## I am...
+
+Learning web designer, idiot, maybe something else. Look around, maybe you find something interesting here, I dunno.
+
+
 <!--
 **Netawa/netawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
